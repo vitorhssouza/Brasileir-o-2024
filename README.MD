@@ -1,6 +1,7 @@
 <h1 align="center">Análise Campeonato Brasileiro 2024</h1>
-
-![imagem](fundo.jpg)
+<p align="center">
+  <img src="fundo.jpg" alt="Brasileirão">
+</p>
 
 #### Índice
 
